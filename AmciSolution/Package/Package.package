@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="aa38f3b2-40b0-43d3-998f-8d510a2fb782" solutionId="aa38f3b2-40b0-43d3-998f-8d510a2fb782" resetWebServer="false" name="AmciSolution" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
-  <features>
-    <featureReference itemId="60307852-e30a-40e9-a0ff-31411ab05e4c" />
-  </features>
-</package>
