@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="aa38f3b2-40b0-43d3-998f-8d510a2fb782" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="AmciSolution.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="AmciSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=440ea07d0cb818b2" Namespace="AmciSolution.lkptTables" TypeName="*" />
+        <SafeControl Assembly="AmciSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=440ea07d0cb818b2" Namespace="AmciSolution.Brand" TypeName="*" />
+        <SafeControl Assembly="AmciSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=440ea07d0cb818b2" Namespace="AmciSolution.Vehicle" TypeName="*" />
+        <SafeControl Assembly="AmciSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=440ea07d0cb818b2" Namespace="AmciSolution.DashBoard" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\AmciSolution\lkptTables\lkptTablesUserControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\AmciSolution\Brand\BrandUserControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\AmciSolution\Vehicle\VehicleUserControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\AmciSolution\DashBoard\DashBoardUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="AmciSolution_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
