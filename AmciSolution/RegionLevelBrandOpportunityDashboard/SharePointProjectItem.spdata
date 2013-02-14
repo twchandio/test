@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="RegionLevelBrandOpportunityDashboardUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="RegionLevelBrandOpportunityDashboard\" Type="ElementManifest" />
+    <ProjectItemFile Source="RegionLevelBrandOpportunityDashboard.webpart" Target="RegionLevelBrandOpportunityDashboard\" Type="ElementFile" />
+    <ProjectItemFile Source="RegionLevelBrandOpportunityDashboardUserControl.ascx" Target="CONTROLTEMPLATES\AmciSolution\RegionLevelBrandOpportunityDashboard\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="AmciSolution.RegionLevelBrandOpportunityDashboard" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>
