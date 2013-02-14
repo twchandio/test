@@ -1,0 +1,12 @@
+D:\Projects\AmciSolution\AmciSolution\bin\Release\AmciSolution.dll
+D:\Projects\AmciSolution\AmciSolution\bin\Release\AmciSolution.pdb
+D:\Projects\AmciSolution\AmciSolution\bin\Release\AjaxControlToolkit.dll
+D:\Projects\AmciSolution\AmciSolution\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Projects\AmciSolution\AmciSolution\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Projects\AmciSolution\AmciSolution\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\Projects\AmciSolution\AmciSolution\bin\Release\Microsoft.Practices.Unity.dll
+D:\Projects\AmciSolution\AmciSolution\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Projects\AmciSolution\AmciSolution\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Projects\AmciSolution\AmciSolution\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\AmciSolution\AmciSolution\obj\Release\AmciSolution.dll
+D:\Projects\AmciSolution\AmciSolution\obj\Release\AmciSolution.pdb

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="VehicleLaunchOpportunityDashboardUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="VehicleLaunchOpportunityDashboard\" Type="ElementManifest" />
+    <ProjectItemFile Source="VehicleLaunchOpportunityDashboard.webpart" Target="VehicleLaunchOpportunityDashboard\" Type="ElementFile" />
+    <ProjectItemFile Source="VehicleLaunchOpportunityDashboardUserControl.ascx" Target="CONTROLTEMPLATES\AmciSolution\VehicleLaunchOpportunityDashboard\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="AmciSolution.VehicleLaunchOpportunityDashboard" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>
