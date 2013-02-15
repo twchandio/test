@@ -1,0 +1,5 @@
+D:\test\firtappharbor\firtappharbor\bin\firtappharbor.dll
+D:\test\firtappharbor\firtappharbor\bin\firtappharbor.pdb
+D:\test\firtappharbor\firtappharbor\obj\Debug\ResolveAssemblyReference.cache
+D:\test\firtappharbor\firtappharbor\obj\Debug\firtappharbor.dll
+D:\test\firtappharbor\firtappharbor\obj\Debug\firtappharbor.pdb
